@@ -76,7 +76,7 @@ export const navItems = [
       des: "Yes, this is the site you are currently on! I created it with Next js and Tailwind CSS.",
       img: "/p1N.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fiv.svg"],
-      link: "https://github.com/mhaseebali/threads",
+      link: "https://github.com/mhaseebali/Portfolio-Next-JS-Tailwind-AceternityUI",
     },
     {
       id: 2,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "I created a Threads App Clone using Next js Framework, TailwindCSS, And more!",
       img: "/threads.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/mhaseebali",
+      link: "https://github.com/mhaseebali/threads",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Apart from Coding I also find it quite creative to spend my time making Animations.",
       img: "/art.png",
       iconLists: ["/fiv.svg", "/pph.svg", "/git.svg", "/three.svg", "/tail.svg"],
-      link: "https://github.com/mhaseebali",
+      link: "https://discord.gg/bz6xXxRmmE",
     },
   ];
   

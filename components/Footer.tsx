@@ -9,7 +9,7 @@ const Footer = () => {
             
 
             <div className='flex flex-col items-center'>
-                    <h1 className='heading lg:max-w-[45vw]'>Ready to take<span className='text-purple'>your </span> digital presense to the next level?</h1>
+                    <h1 className='heading lg:max-w-[45vw]'>Ready to take <span className='text-purple'>your </span> digital presense to the next level?</h1>
                     <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out now! here is my discord nathan477 or I also check my mail daily!</p>
                     <a href="mailto:haseebmlk12@gmail.com">
                             <MagicButton 
