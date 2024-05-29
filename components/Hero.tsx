@@ -30,7 +30,7 @@ const Hero = () => {
         items-center justify-center'>
             <h2 className='uppercase tracking-widest 
             text-xs text-center text-blue-100 max-w-80'>
-              Hi, I'm a Full Stack Developer.
+              Hi, I&apos;m a Full Stack Developer.
             </h2>
             
             <TextGenerateEffect 
